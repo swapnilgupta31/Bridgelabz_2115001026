@@ -12,3 +12,9 @@ Methods, Functions, and Object-Oriented Principles
 Access Modifiers and Naming Conventions in C#
 Advanced C# Topics: Static Members and Utility Classes
 
+21-01-2025
+Topics Covered :
+Practice access modifiers.
+Explore static members.
+Study C# vs Java.
+Learn DLL vs EXE.
