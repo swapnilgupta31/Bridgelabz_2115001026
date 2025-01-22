@@ -18,3 +18,11 @@ Practice access modifiers.
 Explore static members.
 Study C# vs Java.
 Learn DLL vs EXE.
+
+22-01-2025 
+Topics Covered : 
+.gitignore . 
+Type conversions practice .
+boxing unboxing .
+Assignments completed 28 Questions.
+
