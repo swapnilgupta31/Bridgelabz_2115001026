@@ -28,3 +28,10 @@ Assignments completed 28 Questions.
 
 23-01-2025 Topics Covered : control flow . Looping and Conditions .
 coding Practice Assignments 38 questions .
+
+
+24-01-2025 
+Topics Covered : 
+Arrays and Operations.
+Multi-Dimensional Arrays.
+Error Handling and Exit.
