@@ -1,0 +1,15 @@
+C:\Users\gupta\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.exe
+C:\Users\gupta\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.deps.json
+C:\Users\gupta\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.runtimeconfig.json
+C:\Users\gupta\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.dll
+C:\Users\gupta\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\gupta\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupta\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\gupta\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\gupta\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\gupta\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.sourcelink.json
+C:\Users\gupta\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.dll
+C:\Users\gupta\MyConsoleApp\obj\Debug\net9.0\refint\MyConsoleApp.dll
+C:\Users\gupta\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\gupta\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\gupta\MyConsoleApp\obj\Debug\net9.0\ref\MyConsoleApp.dll
