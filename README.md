@@ -39,3 +39,10 @@ Error Handling and Exit.
 
 25-01-2025
 Completed Assignments level1 and level2.
+
+
+27-01-2025 
+Topics Covered :
+Methods . 
+Assignmemt on Methods Level 1.
+
