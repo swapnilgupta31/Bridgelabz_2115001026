@@ -52,3 +52,9 @@
 **28-01-2025**
 * practiced Methods
 *  Completed Assignments on Methods Level2 & Level3.
+
+**29-01-2025**
+* Strings 
+* String Handling
+* Built-in functions in Strings.
+* Assignment Level 1 .
