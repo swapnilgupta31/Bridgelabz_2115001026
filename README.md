@@ -5,7 +5,7 @@
  * Assignment 1 updated in features/10-01-2025
 
 **20-01-2025**
-Topics covered :
+- Topics covered :
 * Introduction to C# Program Structure and Syntax
 * Variables, Data Types, and Control Structures in C#
 * Methods, Functions, and Object-Oriented Principles
@@ -13,39 +13,41 @@ Topics covered :
 * Advanced C# Topics: Static Members and Utility Classes
 
 **21-01-2025**
-Topics Covered :
+- Topics Covered :
 * Practice access modifiers.
 * Explore static members.
 * Study C# vs Java.
 * Learn DLL vs EXE.
 
 **22-01-2025** 
-Topics Covered : 
+- Topics Covered : 
 * .gitignore . 
 * Type conversions practice .
 * boxing unboxing .
 * Assignments completed 28 Questions.
 
 **23-01-2025**
-Topics Covered : 
+- Topics Covered : 
 * control flow . 
 * Looping and Conditions .
 * coding Practice Assignments 38 questions .
 
 
-24-01-2025 
-Topics Covered : 
-Arrays and Operations.
-Multi-Dimensional Arrays.
-Error Handling and Exit.
+**24-01-2025** 
+- Topics Covered : 
+*  Arrays and Operations.
+* Multi-Dimensional Arrays.
+* Error Handling and Exit.
 
 
-25-01-2025
-Completed Assignments level1 and level2.
+**25-01-2025**
+* Completed Assignments level1 and level2.
 
 
-27-01-2025 
-Topics Covered :
-Methods . 
-Assignmemt on Methods Level 1.
+**27-01-2025** 
+- Topics Covered :
+* Methods . 
+* Assignmemt on Methods Level 1.
 
+**28-01-2025**
+- Completed Assignments on Methods.
