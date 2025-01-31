@@ -63,3 +63,9 @@
 * Revision
 * Review 1 Completed .
 * Assignment Level 2 & Level 3 Completed .
+
+**31-01-2025**
+* Patterns
+* Procedural Programming and Object Oriented Programming
+* Class and Objects
+* OOP Level1 Assignment.
