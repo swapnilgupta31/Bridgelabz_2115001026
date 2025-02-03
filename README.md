@@ -69,3 +69,10 @@
 * Procedural Programming and Object Oriented Programming
 * Class and Objects
 * OOP Level1 Assignment.
+
+**01-02-2025** 
+* Constructors
+* Instance vs Class variables 
+* Access Modifiers 
+* Assignment. 
+
