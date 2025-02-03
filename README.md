@@ -76,3 +76,7 @@
 * Access Modifiers 
 * Assignment. 
 
+**03-02-2025**
+* this , static.
+* sealed , is operator
+* Daily Assignment.
