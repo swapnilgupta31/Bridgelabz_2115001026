@@ -80,3 +80,7 @@
 * this , static.
 * sealed , is operator
 * Daily Assignment.
+
+**04-02-2025**
+* Revised and Practiced OOPS.
+* Upcasting and Downcasting.
