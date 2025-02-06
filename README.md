@@ -84,3 +84,8 @@
 **04-02-2025**
 * Revised and Practiced OOPS.
 * Upcasting and Downcasting.
+
+**05-02-2025**
+* Daily Assignment
+* Object , Class & Sequence Diagram
+
