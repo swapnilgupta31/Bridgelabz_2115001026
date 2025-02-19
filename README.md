@@ -89,3 +89,61 @@
 * Daily Assignment
 * Object , Class & Sequence Diagram
 
+**06-02-2025**
+* Daily Assignment 
+* Inheritance
+
+**07-02-2025**
+* Daily Assignment 
+* Inheritance , Overriding OverLoading
+
+**10-02-2025**
+* Daily Assignment
+* Abstaction
+* Encapsulation
+* Polymorphism
+
+**11-02-2025**
+* Daily Assignment
+* Data Structure and Algorithm
+
+**12-02-2025**
+* Daily Assignment
+* Stack
+* Queue
+* HashMap
+* HashSet
+
+**13-02-2025**
+* Daily Assignment
+* Sorting Algorithms
+
+**14-02-2025**
+* Daily Assignment
+* Searching Algorithm
+* Linear Search
+* Binary Search
+
+**15-02-2025**
+* Daily Assignment
+* Algorithm's Runtime and Space Complexity
+
+**17-02-2025**
+* Daily Assignment
+* Generics
+
+**18-02-2025**
+* Daily Assignment
+* Collections
+
+**19-02-2025**
+* Daily Assignment
+* Streams
+
+
+
+
+
+
+
+
